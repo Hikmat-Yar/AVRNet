@@ -36,6 +36,10 @@ Option 2: Download AVRNet dataset from given link: [Click here](Will be publishe
 
 ### 4. Qualitative Results
 
+### Dataset Analysis
+
+![Dataset Analysis](assets/dataset_analysis.png)
+
 ### 5. Quantitative Results
 *Notice:* Please follow the paper pdf to view the references.
 
