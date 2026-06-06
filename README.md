@@ -37,7 +37,7 @@ Option 2: Download AVRNet dataset from given link: [Click here](Will be publishe
 
 
 ## 5. Citation and Acknowledgements
-Please read and cite our following papers on Fire Detection if you like our work:
+Please read and cite our following paper if you like our work:
 
 <pre>
 <code>
