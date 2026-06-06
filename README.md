@@ -25,7 +25,7 @@ The datasets can be downloaded from the following links. We follow the training 
 
 
 
-Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given link: [Click here]([EmreSasmaz](https://github.com/emresasmaz/Animal-Sound-Classification-Using-A-Convolutional-Neural-Network))
+Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given link: ([EmreSasmaz](https://github.com/emresasmaz/Animal-Sound-Classification-Using-A-Convolutional-Neural-Network)
 
 Option 2: Download AVRNet dataset from given link: [Click here](Will be published soon, after the acceptance of the paper or with reasonble request from the authors)
 
