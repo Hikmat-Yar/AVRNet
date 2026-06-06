@@ -19,6 +19,8 @@ You need to install Tensorflow (preferred 2.10) and some basic libraries includi
 For installation used 
 pip install -r requirements.txt
 
+## 3. Framework
+![Dataset Collection Information](assets/Framework.svg)
 
 ## 3. Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the baseline methods.
@@ -27,12 +29,9 @@ Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given l
 
 Option 2: Download AVRNet dataset from given link: [Click here](Will be published soon, after the acceptance of the paper or with reasonble request from the authors)
 
-![Dataset Collection Information](assets/Framework.svg)
-
-
 ![Dataset Analysis](assets/Analysis.svg)
 
-## Framework
+
 
 ![Framework](assets/Framework.svg)
 
