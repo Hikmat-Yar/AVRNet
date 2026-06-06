@@ -29,11 +29,13 @@ Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given l
 
 Option 2: Download AVRNet dataset from given link: [Click here](Will be published soon, after the acceptance of the paper or with reasonble request from the authors)
 
-![Dataset Analysis](assets/Analysis.svg)
+![AVRNet](assets/Dataset.svg)
+
+![AVRNet Analysis](assets/Analysis.svg)
 
 
 
-![Framework](assets/Framework.svg)
+
 
 
 ### 4. Qualitative Results
