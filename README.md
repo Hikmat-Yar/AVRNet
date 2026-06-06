@@ -31,7 +31,7 @@ Option 2: Download AVRNet dataset from given link: [Click here](Will be publishe
 
 ## Framework
 
-![Framework](assets/framework.svg)
+![Framework](assets/Framework.svg)
 
 
 ### 4. Qualitative Results
