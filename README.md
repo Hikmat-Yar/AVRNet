@@ -20,14 +20,17 @@ For installation used
 pip install -r requirements.txt
 
 
-### 3.1. Datasets
+## 3. Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the baseline methods.
-
-
 
 Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given link: ([EmreSasmaz])(https://github.com/emresasmaz/Animal-Sound-Classification-Using-A-Convolutional-Neural-Network)
 
 Option 2: Download AVRNet dataset from given link: [Click here](Will be published soon, after the acceptance of the paper or with reasonble request from the authors)
+
+![Dataset Collection Information](assets/Framework.svg)
+
+
+![Dataset Analysis](assets/Analysis.svg)
 
 ## Framework
 
@@ -35,11 +38,6 @@ Option 2: Download AVRNet dataset from given link: [Click here](Will be publishe
 
 
 ### 4. Qualitative Results
-
-### Dataset Analysis
-
-![Dataset Analysis](assets/Analysis.svg)
-
 ### 5. Quantitative Results
 *Notice:* Please follow the paper pdf to view the references.
 
