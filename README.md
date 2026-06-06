@@ -43,7 +43,7 @@ Please read and cite our following papers on Fire Detection if you like our work
 <pre>
 <code>
 
-}</code>
+</code>
 </pre>
 
 
