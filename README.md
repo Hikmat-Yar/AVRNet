@@ -34,15 +34,6 @@ Option 2: Download AVRNet dataset from given link: [Click here](Will be publishe
 ![AVRNet Analysis](assets/Analysis.svg)
 
 
-
-
-
-
-### 4. Qualitative Results
-### 5. Quantitative Results
-*Notice:* Please follow the paper pdf to view the references.
-
-
 ## 5. Citation and Acknowledgements
 Please read and cite our following paper if you like our work:
 
@@ -54,5 +45,5 @@ Please read and cite our following paper if you like our work:
 
 
 ## 6. Contact
-I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at htanveer3797 [at] [gmail] [.com]
+I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration.
 
