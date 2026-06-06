@@ -15,7 +15,7 @@ After the Acceptance Link will be provided
 
 
 ## 2. Setup
-You need to install Tensorflow (preferred 2.10) and some basic libraries including PIL, cv2, numpy, etc.
+You need to install Tensorflow (preferred 2.10) and some basic libraries including PIL, cv2, Scikit-learn, Pandas, numpy, etc.
 For installation used 
 pip install -r requirements.txt
 
