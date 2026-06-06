@@ -1,29 +1,27 @@
-# DFAN
-Optimized Dual Fire Attention Network and Medium-Scale Fire Classification Benchmark
+# 
+A Unified Deep Supervised Network for Effective Animal Voice Recognition
 
 
 
-# DFAN (TIP2022)
-## Optimized Dual Fire Attention Network and Medium-Scale Fire Classification Benchmark
+# CMES
+## A Unified Deep Supervised Network for Effective Animal Voice Recognition
 
-This paper has been accepted to IEEE Transactions on Image Processing
+This paper has been submitted to CMES-Computer Modeling in Engineering & Sciences
 
-To download the framework: [DFAN.pdf]()
+
 
 ### 1. Paper Links
-https://ieeexplore.ieee.org/abstract/document/9898909
+After the Acceptance Link will be provided
 
-IEEE-TIP: 
+
 ## 2. Setup
-You need to install Tensorflow (preferred 2.9.0) and some basic libraries including PIL, cv2, numpy, etc.
+You need to install Tensorflow (preferred 2.10) and some basic libraries including PIL, cv2, numpy, etc.
 For installation used 
 pip install -r requirements.txt
 
-## 3. How to Train?
-In the repository, the DFAN.ipynb file is used to train the orignal DFAN model, where the Attention_mechanism_with_InceptionV3_github_compress_de is used for compress version. 
 
 ### 3.1. Datasets
-The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
+The datasets can be downloaded from the following links. We follow the training and testing data similar to the baseline methods.
 
 Option 1: Download FD dataset from given link: [Click here](http://www.nnmtl.cn/EFDNet/)
 
